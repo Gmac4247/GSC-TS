@@ -6,5 +6,5 @@
    "author": "Gaal Sandor",
   "license": "MIT",
   "keywords": ["geometry", "math", "ecact", "formulas"],
- "main": "basic-geometry.js"
+ "main": "basic-geometry.ts"
  }
